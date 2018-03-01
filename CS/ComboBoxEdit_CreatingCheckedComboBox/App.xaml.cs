@@ -11,4 +11,6 @@ namespace ComboBoxEdit_CreatingCheckedComboBox {
     /// </summary>
     public partial class App : Application {
     }
+
+
 }
