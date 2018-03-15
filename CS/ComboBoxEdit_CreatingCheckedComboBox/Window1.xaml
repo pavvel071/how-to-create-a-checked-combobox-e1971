@@ -11,7 +11,7 @@
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
             <RowDefinition />
-            <RowDefinition Height="22" />
+            <RowDefinition Height="35" />
             <RowDefinition />
         </Grid.RowDefinitions>
         <dxe:ComboBoxEdit Grid.Column="1" Grid.Row="1" SeparatorString=";">
